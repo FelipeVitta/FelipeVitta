@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **ReactJS, NodeJS**
 
-- 📫 How to reach me **feliperiku@gmail.com**
+- 📫 Contato: **feliperiku@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
