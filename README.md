@@ -5,11 +5,12 @@
 
 - 📫 Contato: **feliperiku@gmail.com**
 
-- ⚡ Fato Curioso **Já fui jogador e treinador profissional de Rocket League**
+- ⚡ Fato Curioso: **Já fui jogador e treinador profissional de Rocket League**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-leal-772123248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-leal-772123248/" height="30" width="40" /></a>
+<a href="https://instagram.com/felipe_vitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe_vitta" height="30" width="40" /></a>
 <a href="https://discord.gg/Waantz#1518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Waantz#1518" height="30" width="40" /></a>
 </p>
 
