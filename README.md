@@ -5,7 +5,7 @@
 
 - 📫 Contato: **feliperiku@gmail.com**
 
-- ⚡ Fato Curioso: **Já fui jogador e treinador profissional de Rocket League**
+- ⚡ Fato Curioso: **Já fui jogador e treinador profissional de E-sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
