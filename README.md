@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Leal</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-- 🌱 Atualmente estou aprendendo **ReactJS, NodeJS e Electron JS**
+- 🌱 Atualmente estou aprendendo **Cypress**
 
 - 📫 Contato: **feliperiku@gmail.com**
 
