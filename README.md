@@ -7,7 +7,7 @@
 
 - ⚡ Fato Curioso: **Já fui jogador e treinador profissional de E-sports**
 
-- ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVitta&layout=compact&theme=dracula)
+https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVitta&layout=compact&theme=dracula&hide=jupyter%20notebook
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
