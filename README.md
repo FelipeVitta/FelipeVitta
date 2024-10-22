@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Mendix** e **Docker**
 
-- 📫 Contato: **feliperiku@gmail.com**
+- 📫 Contato: **felipedvleal@gmail.com**
 
 - ⚡ Fato Curioso: **Já fui jogador e treinador profissional de E-sports**
 
