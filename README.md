@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Mendix** e **AWS**
 
-- 📫 Contato: **felipedvleal@gmail.com**
+- 📫 Contato: **feliperiku@gmail.com**
 
 - ⚡ Fato Curioso: **Já fui jogador e treinador profissional de E-sports**
 
