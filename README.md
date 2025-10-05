@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Leal</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-- 🌱 Atualmente estou aprendendo **Mendix** e **Docker**
+- 🌱 Atualmente estou aprendendo **Mendix** e **AWS**
 
 - 📫 Contato: **felipedvleal@gmail.com**
 
